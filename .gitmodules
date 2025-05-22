@@ -1,0 +1,3 @@
+[submodule "mapserver"]
+	path = mapserver
+	url = https://github.com/MapServer/MapServer.git
